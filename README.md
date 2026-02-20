@@ -1,4 +1,3 @@
-Aqui está o teu texto **desenvolvido, corrigido e formatado em Markdown**, mantendo a tua ideia original mas com estrutura mais clara e profissional:
 
 ---
 
@@ -89,11 +88,5 @@ Criar um RPG imersivo com:
 
 ---
 
-Se quiseres, posso agora:
-
-* 📘 Transformar isto num README profissional para GitHub
-* 🧩 Organizar como documento técnico (arquitetura do sistema)
-* 🛠️ Ajudar a estruturar o roadmap do projeto
-* 🤖 Desenhar a arquitetura da IA + OpenSim
 
 Diz-me qual o próximo passo 😉
