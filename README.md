@@ -7,5 +7,5 @@
 - neste repo scrips lsl
 ---
 __vou tentar explicar minha__ 💡
-- - vou alugar uma nuvem, a correr o Opensim, e varios Opensim-bots. a que vou adicionar a AI, o SERVIDOR
+- - vou alugar uma nuvem, a correr o Opensim + mysql, e varios Opensim-bots. a que vou adicionar a AI, o SERVIDOR
 
