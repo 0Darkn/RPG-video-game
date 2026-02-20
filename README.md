@@ -6,5 +6,6 @@
 # história do jogo 
 - neste repo scrips lsl
 ---
-__vou tentar explicar minha__ 💡 
+__vou tentar explicar minha__ 💡
+- - vou alugar uma nuvem, a correr o Opensim, e varios Opensim-bots. a que vou adicionar a AI, o SERVIDOR
 
