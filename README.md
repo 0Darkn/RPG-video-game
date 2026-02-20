@@ -10,6 +10,7 @@ __vou tentar explicar minha__ 💡
 - - vou alugar uma nuvem, a correr o Opensim + mysql, e varios Opensim-bots. a que vou adicionar a AI, o SERVIDOR
   - tentando fazer o cerebro do bot, ai bot
   - será tipo a "imaginação" do ai bot
+  - quantos rasberry pi 5 são nessesario para um bot ?
 ---
 **LSL (Linden Scripting Language)** 😊
 
