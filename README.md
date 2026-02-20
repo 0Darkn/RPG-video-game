@@ -1,2 +1,6 @@
 # RPG-video-game
-RPG-video-game
+- ideia ou desejo
+- este jogo é para maiores de 18 anos, para adultos
+- o jogo é inspirado na biblia e ciência
+- se você é uma pessoa sensível não ⛔ ler,
+- neste repo scrips lsl
