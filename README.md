@@ -8,4 +8,21 @@
 ---
 __vou tentar explicar minha__ 💡
 - - vou alugar uma nuvem, a correr o Opensim + mysql, e varios Opensim-bots. a que vou adicionar a AI, o SERVIDOR
+---
+**LSL (Linden Scripting Language)** 😊
+
+LSL é a linguagem usada no **Second Life** para programar objetos dentro do mundo virtual — portas, HUDs, armas, sistemas de venda, animações, etc.
+
+tipos:
+
+* Scripts básicos (abrir/fechar porta, luz on/off)
+* Sistemas de vendor
+* Comunicação entre objetos (`llSay`, `llRegionSay`, `llMessageLinked`)
+* Sensores (`llSensor`)
+* Eventos (`state_entry`, `touch_start`, `listen`, etc.)
+* Animações e permissões
+* HUDs
+* Sistemas mais complexos (combat, RP, locks, etc.)
+
+
 
