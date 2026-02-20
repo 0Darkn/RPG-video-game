@@ -5,3 +5,6 @@
 - se você é uma pessoa sensível não ⛔ ler,
 # história do jogo 
 - neste repo scrips lsl
+---
+__vou tentar explicar minha__ 💡 
+
