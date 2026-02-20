@@ -197,10 +197,10 @@ Para criar a sensação de consciência:
 
 Recomendação:
 
-✅ OpenSim dedicado
-✅ API IA separada
-✅ Memória persistente
-✅ Personalidade única por NPC
-✅ Sistema moral dinâmico
+- ✅ OpenSim dedicado
+- ✅ API IA separada
+- ✅ Memória persistente
+- ✅ Personalidade única por NPC
+- ✅ Sistema moral dinâmico
 
 ---
