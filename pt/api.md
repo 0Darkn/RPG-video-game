@@ -1,6 +1,6 @@
 ## 🖥️ API 3D browser em Python (Qt)
 
-**Visualizar avatar + mundo e mover com teclado/rato (passo a passo)**
+**Visualizar avatar + mundo e mover com teclado/rato**
 
 A ideia é criar um cliente 3D leve que funcione como “browser” do mundo (ex.: grid em **OpenSim**), com:
 
