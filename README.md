@@ -10,22 +10,22 @@
 
 ## 💡 Ideia / Conceito
 
-Este projeto é um RPG inspirado na **Bíblia** e na **ciência**, explorando temas profundos, filosóficos e existenciais.
+- Este projeto é um RPG inspirado na **Bíblia** e na **ciência**, explorando temas profundos, filosóficos e existenciais.
 
-O objetivo é criar uma experiência imersiva dentro de um mundo virtual, utilizando tecnologia de simulação e inteligência artificial para dar vida a personagens e interações dinâmicas.
+- O objetivo é criar uma experiência imersiva dentro de um mundo virtual, utilizando tecnologia de simulação e inteligência artificial para dar vida a personagens e interações dinâmicas.
 
 ---
 
 ## 🌍 Infraestrutura do Projeto
 
-A ideia técnica do projeto envolve:
+- A ideia técnica do projeto envolve:
 
 * Alugar um servidor em nuvem
 * Executar **OpenSim + MySQL**
 * Utilizar vários bots no OpenSim
 * Integrar um sistema de Inteligência Artificial no servidor
 
-A IA funcionaria como o **“cérebro” do bot**, responsável por:
+- A IA funcionaria como o **“cérebro” do bot**, responsável por:
 
 * Processamento de decisões
 * Comportamento dinâmico
