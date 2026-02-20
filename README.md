@@ -87,6 +87,3 @@ Criar um RPG imersivo com:
 * Mistura de espiritualidade, ciência e tecnologia
 
 ---
-
-
-Diz-me qual o próximo passo 😉
