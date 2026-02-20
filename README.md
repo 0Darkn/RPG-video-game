@@ -11,6 +11,7 @@ __vou tentar explicar minha__ 💡
   - tentando fazer o cerebro do bot, ai bot
   - será tipo a "imaginação" do ai bot
   - quantos rasberry pi 5 são nessesario para um bot ?
+  - talves o melhor é ter uma janela ou esplorador "browser 3D" ou api 
 ---
 **LSL (Linden Scripting Language)** 😊
 
